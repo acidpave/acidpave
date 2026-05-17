@@ -13,7 +13,7 @@
 [![Python, C#, Java, Markdown](https://skillicons.dev/icons?i=python,cs,java,md)](https://skillicons.dev)
 
 ## Tools that I have a bit of experience with
-[![HTML, CSS, JS, Lua, C, C++, Ruby, Swift, Rust, .NET, Unity, Godot, Roblox Studio, Figma, Powershell](https://skillicons.dev/icons?i=html,css,js,lua,c,cpp,ruby,bash,swift,rust,dotnet,unity,godot,robloxstudio,figma,powershell)](https://skillicons.dev)
+[![HTML, CSS, JS, Lua, C, C++, Ruby, Swift, Rust, .NET, Unity, Godot, Roblox Studio, Figma, Powershell, Wordpress](https://skillicons.dev/icons?i=html,css,js,lua,c,cpp,ruby,bash,swift,rust,dotnet,unity,godot,robloxstudio,figma,powershell,wordpress)](https://skillicons.dev)
 ## Operating systems on my PC
 [![Windows, Linux, Arch](https://skillicons.dev/icons?i=windows,linux,arch)](https://skillicons.dev)
 ## Software I use frequently
