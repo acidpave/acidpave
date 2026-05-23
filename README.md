@@ -3,11 +3,11 @@
 - I'm a pro in both high and low level coding.
 - I'm the owner of **acidgames**, where I create games and utilities.
 - I'm also developing an extremely high-level language called Brick.
-- My biggest achievment is coding a text based game within **Assembly** at the age of 11.
+- My biggest achievment is coding a 99 Bottles Of Beer within **raw hexadecimal code** at the age of 11.
 - Languages I speak : English, Urdu, a pinch of Norweigan.
 - You can contact me via the [acidbytes]( https://www.youtube.com/@acidbytes-binary) channel on Youtube or at gmdsagittarius@gmail.com.
 - I'm also experienced at **BF** and **Assembly x86**, which are **VERY** low-level.
-- Fun fact: I have tried over **20+ languages** and **10+ game engines!**
+- Fun fact: I have tried over **50+ languages** and **10+ game engines!**
 
 ## Tools I've mastered/have lots of experience with
 [![Python, C#, Java, Markdown](https://skillicons.dev/icons?i=python,cs,java,md&theme=light)](https://skillicons.dev)
