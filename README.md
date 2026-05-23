@@ -5,7 +5,7 @@
 - I'm also developing an extremely high-level language called Brick.
 - My biggest achievment is coding a 99 Bottles Of Beer within **raw hexadecimal code** at the age of 11.
 - Languages I speak : English, Urdu, a pinch of Norweigan.
-- You can contact me via the [acidbytes]( https://www.youtube.com/@acidbytes-binary) channel on Youtube or at gmdsagittarius@gmail.com.
+- You can contact me via the [acidbytes]( https://www.youtube.com/@acidbytes.h) channel on Youtube or at gmdsagittarius@gmail.com.
 - I'm also experienced at **BF** and **Assembly x86**, which are **VERY** low-level.
 - Fun fact: I have tried over **50+ languages** and **10+ game engines!**
 
