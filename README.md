@@ -10,9 +10,9 @@
 - Fun fact: I have tried over **50+ languages** and **10+ game engines!**
 
 ## Tools I've mastered/have lots of experience with
-[![Python, C#, Java, Markdown](https://skillicons.dev/icons?i=python,cs,java,md&theme=light)](https://skillicons.dev)
+[![Python, C, C++, C#, Java, Bash, Markdown](https://skillicons.dev/icons?i=python,c,cpp,cs,java,bash,md&theme=light)](https://skillicons.dev)
 ## Tools that I have a bit of experience with
-[![HTML, CSS, JS, HTMX, Svelte, Lua, C, C++, Ruby, Swift, Rust, Kotlin, Fortran, .NET, Unity, Godot, Roblox Studio, Figma, Powershell, Wordpress](https://skillicons.dev/icons?i=html,css,js,htmx,svelte,lua,c,cpp,ruby,go,bash,powershell,swift,rust,kotlin,fortran,dotnet,unity,godot,robloxstudio,figma,wordpress&theme=light)](https://skillicons.dev)
+[![HTML, CSS, JS, HTMX, Svelte, Lua, Ruby, Swift, Rust, Kotlin, Fortran, MYSql, SQLite, .NET, Unity, Godot, Roblox Studio, Figma, Powershell, Wordpress](https://skillicons.dev/icons?i=html,css,js,htmx,svelte,lua,ruby,go,powershell,swift,rust,kotlin,fortran,mysql,sqlite,dotnet,unity,godot,robloxstudio,figma,wordpress&theme=light)](https://skillicons.dev)
 ## Software I use frequently
 [![VSCode, Github, Gmail, NPM](https://skillicons.dev/icons?i=vscode,github,gmail,npm&theme=light)](https://skillicons.dev)
 ## My coding editors
