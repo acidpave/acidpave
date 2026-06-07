@@ -21,4 +21,3 @@
 [![Windows, Linux, Arch](https://skillicons.dev/icons?i=windows,linux,arch,arduino&theme=light)](https://skillicons.dev)
 ## Some Github info
 [![acidpave's github stats](https://github-readme-activity-graph.vercel.app/graph?username=acidpave&bg_color=ffe97f&color=30D5C8&line=FFB27F)](https://github.com/acidpave/github-readme-activity-graph)
-[![trophy](https://github-profile-trophy.vercel.app/?username=acidpave&theme=onelight)](https://github.com/ryo-ma/github-profile-trophy)
