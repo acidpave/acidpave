@@ -1,7 +1,7 @@
 # Hello World! 👋
 #### I'm acidbytes and am 11 at the moment. Despite this, I manage to code in some pretty hard languages like Assembly x86, Hexadecimal Code and even MALBOLGE. I usually do some game dev in my free time, with languages like Python or GDScript.
-- I'm a pro in both high and low level coding.
-- I'm also developing an extremely high-level language called Brick.
+- I'm intermediate in both high and low level coding.
+- I'm also developing an library designed to make C like Python called flow.h.
 - My biggest achievment is coding a 99 Bottles Of Beer within **raw hexadecimal code** at the age of 11.
 - Languages I speak : English, Urdu, a pinch of Norweigan.
 - My main game engines are **ElectraMod** and **Godot** but also sometimes use *Unity* and *Roblox Studio*.
