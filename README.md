@@ -3,8 +3,8 @@
 - I'm intermediate in both high and low level coding.
 - I'm also developing an library designed to make C like Python called flow.h.
 - My biggest achievment is coding a 99 Bottles Of Beer within **raw hexadecimal code** at the age of 11.
-- Languages I speak : English, Urdu, a pinch of Norweigan.
-- My main game engines are **ElectraMod** and **Godot** but also sometimes use *Unity* and *Roblox Studio*.
+- Languages I speak : English, Urdu, a pinch of Norweigan and very slight Japanese.
+- My main game engines are **[ElectraMod](https://electramod.vercel.app)** and **[Godot](https://godotengine.org)** but also sometimes use *Unity* and *Roblox Studio*.
 - You can contact me via the [acidbytes]( https://www.youtube.com/@acidbytes.h) channel on Youtube or at gmdsagittarius@gmail.com.
 - I'm also experienced at **BF** and **Assembly x86**, which are **VERY** low-level.
 - Fun fact: I have tried over **50+ languages** and **10+ game engines!**
