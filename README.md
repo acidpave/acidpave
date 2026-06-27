@@ -12,7 +12,7 @@
 ## Tools I've mastered/have lots of experience with
 [![Python, C, C++, C#, HTML, CSS, Java, Bash, Godot, Markdown](https://skillicons.dev/icons?i=python,c,cpp,cs,html,css,java,bash,godot,md&theme=light)](https://skillicons.dev)
 ## Tools that I have a bit of experience with
-[![JS, TS, WebAssembly, CoffeeScript, HTMX, Svelte, Tailwind CSS, Lua, Ruby, Swift, Rust, Zig, Kotlin, Fortran, MYSql, SQLite, PHP, .NET, LaTeX, Unity, Roblox Studio, Git, Figma, Powershell, Wordpress](https://skillicons.dev/icons?i=js,ts,wasm,coffeescript,htmx,svelte,tailwind,lua,ruby,go,powershell,swift,rust,zig,kotlin,fortran,mysql,sqlite,php,dotnet,latex,unity,robloxstudio,git,figma,wordpress&theme=light)](https://skillicons.dev)
+[![p5.js, JS, TS, WebAssembly, CoffeeScript, HTMX, Svelte, Tailwind CSS, Lua, Ruby, Swift, Rust, Zig, Kotlin, Fortran, MYSql, SQLite, PHP, .NET, LaTeX, Unity, Roblox Studio, Git, Figma, Powershell, Wordpress](https://skillicons.dev/icons?i=p5js,js,ts,wasm,coffeescript,htmx,svelte,tailwind,lua,ruby,go,powershell,swift,rust,zig,kotlin,fortran,mysql,sqlite,php,dotnet,latex,unity,robloxstudio,git,figma,wordpress&theme=light)](https://skillicons.dev)
 ## Software I use frequently
 [![VSCode, Github, Unity, Godot, NPM, Yarn](https://skillicons.dev/icons?i=vscode,github,unity,godot,npm,yarn&theme=light)](https://skillicons.dev)
 ## My coding editors
